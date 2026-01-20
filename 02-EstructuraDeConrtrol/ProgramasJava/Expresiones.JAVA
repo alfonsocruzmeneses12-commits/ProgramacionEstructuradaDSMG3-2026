@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class ProgramacionEstructurada {
+public class Expresiones {
     public static void main(String[] args) {
         
     
